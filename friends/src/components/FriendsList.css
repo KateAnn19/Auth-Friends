@@ -1,0 +1,16 @@
+.Friends{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    text-align: center;
+}
+.Friends-List{
+    /* display: flex;
+    flex-wrap: wrap; */
+    text-align: center;
+    border: 1px solid green;
+    width: 30%;
+    margin: 2rem 0 2rem 17rem;
+}
