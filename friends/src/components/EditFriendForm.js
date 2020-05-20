@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 
-
 function EditFriendForm({ age, name, email, id, toggleForm, update }) {
-  
   const [formState, setFormState] = useState({
     name: name,
     age: age,
