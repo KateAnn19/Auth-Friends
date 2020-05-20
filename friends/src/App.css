@@ -1,0 +1,21 @@
+.links {
+  display: flex;
+  margin-left: 70%;
+  justify-content: space-around;
+  /* align-items: flex-end; */
+  text-align: center;
+}
+
+nav {
+  border: 2px solid green;
+  width: 10%;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.Friends-Pic {
+  width: 60%;
+  margin: 2rem 0 0 24rem;
+}
